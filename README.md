@@ -1,7 +1,7 @@
 # W3Schools Clone
 
 ## 🖥️ Project Overview
-This is a responsive front-end clone of the W3Schools website, created using HTML and CSS. The project replicates the design and basic navigation of the original site.
+This project was developed to strengthen my understanding of **HTML** and **CSS**. It replicates the design and structure of the W3Schools website to reinforce key front-end development concepts such as layout, styling, and responsive design.
 
 ## 🚀 Features
 - Responsive Navigation Bar  
